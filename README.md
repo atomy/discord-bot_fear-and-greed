@@ -1,2 +1,2 @@
 # Introduction 
-Discord bot that includes the current gas price of eth transactions in its presence.
+Discord bot to display CNN fear-and-greed index in its present (https://money.cnn.com/data/fear-and-greed/).
